@@ -1,0 +1,7 @@
+{
+  "n_estimators": 400,
+  "max_samples": 0.7911393175924574,
+  "contamination": 0.032805025977668774,
+  "max_features": 0.10554249997403164,
+  "bootstrap": false
+}
